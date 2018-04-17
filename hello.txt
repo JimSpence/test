@@ -1,0 +1,4 @@
+ChangeInMaster
+ChangeAfterCommit
+AfterNewBranch
+JustToMaster
