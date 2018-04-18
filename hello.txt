@@ -1,4 +1,4 @@
 ChangeInMaster
 ChangeAfterCommit
 AfterNewBranch
-JustToMaster
+JustToMaster2
